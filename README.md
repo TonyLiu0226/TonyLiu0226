@@ -1,4 +1,4 @@
-[![STATS](https://github-readme-stats.vercel.app/api?username=TonyLiu0226&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![STATS](https://github-readme-stats.vercel.app/api?username=TonyLiu0226&count_private=true&show_icons=true&theme=tokyonight&border_radius=2)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
