@@ -1,9 +1,9 @@
 **ABOUT ME**
 
 
-[![STATS](https://github-readme-stats.vercel.app/api?username=TonyLiu0226&count_private=true&show_icons=true&theme=tokyonight&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)
+[![STATS](github-readme-three.vercel.app/api?username=TonyLiu0226&count_private=true&show_icons=true&theme=tokyonight&border_radius=20)](https://github.com/TonyLiu0226/github-readme)
 
-[![MY FAVORITE LANGUAGES](https://github-readme-stats.vercel.app/api/top-langs/?username=t-shah02&langs_count=5&theme=tokyonight&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)
+[![MY FAVORITE LANGUAGES](github-readme-three.vercel.app/api/top-langs/?username=t-shah02&langs_count=5&theme=tokyonight&border_radius=20)](https://github.com/TonyLiu0226/github-readme)
 
 
 - 👋 Hi, I’m @TonyLiu0226
